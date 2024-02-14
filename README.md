@@ -1,3 +1,4 @@
+![Adapter Assist](https://github.com/HackerPrat/AdapterAssist/assets/38567597/e70e2499-5c15-40b3-8ebf-82525958c94a)
 # Adapter Assist
 
 Adapter Assist is a standalone executable made from a Python script designed to streamline the process of managing wireless adapter modes in Unix-like operating systems. It helps users easily switch between monitor mode and managed mode for their wireless adapters by providing convenient aliases that are also interactive.
