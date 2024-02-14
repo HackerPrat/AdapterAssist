@@ -8,8 +8,8 @@ Adapter Assist is a standalone executable made from a Python script designed to 
 To use Adapter Assist, simply download the executable and run it in your terminal as follows:
 
 ```bash
-wget https://github.com/HackerPrat/AdapterAssist/raw/main/AdapterAssist \
-chmod +x AdapterAssist \
+wget https://github.com/HackerPrat/AdapterAssist/raw/main/AdapterAssist
+chmod +x AdapterAssist
 ./AdapterAssist
 ```
 
