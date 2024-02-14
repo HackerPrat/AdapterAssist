@@ -5,7 +5,7 @@ Adapter Assist is a standalone executable made from a Python script designed to 
 
 ## Installation
 
-To use Adapter Assist, simply download the script and run it in your terminal.
+To use Adapter Assist, simply download the executable and run it in your terminal as follows:
 
 ```bash
 wget https://github.com/HackerPrat/AdapterAssist/raw/main/AdapterAssist \
