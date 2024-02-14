@@ -42,7 +42,7 @@ Adapter Assist is compatible with most Unix-like operating systems and supports 
 
 ## Contributing
 
-If you encounter any issues or have suggestions for improvements, feel free to contribute by opening an issue or submitting a pull request on the [GitHub repository](https://github.com/HackerPrat/AdapterAsssist).
+If you encounter any issues or have suggestions for improvements, feel free to contribute by opening an issue or submitting a pull request on the [GitHub repository](https://github.com/HackerPrat/AdapterAssist).
 
 ## License
 
